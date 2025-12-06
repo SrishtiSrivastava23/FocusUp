@@ -7,24 +7,24 @@ Inspired by the Pomodoro Technique, the app helps you stay productive by alterna
 ---
 
 ## 🎯 Features
-- ⏲️ 25-minute work sessions
-- 🍵 5-minute short breaks
-- 💤 20-minute long breaks after every 4 sessions
-- ✅ Checkmarks to track completed work sessions
-- 🖼️ Custom background image
-- 🔊 Beep sound alert at the end of each session
-- 🐍 No external libraries — fully built with Python’s standard library
+-  25-minute work sessions
+-  5-minute short breaks
+-  20-minute long breaks after every 4 sessions
+-  Checkmarks to track completed work sessions
+-  Custom background image
+-  Beep sound alert at the end of each session
+-  No external libraries — fully built with Python’s standard library
 
 ---
 
-## 🖼️ Screenshot
+##  Screenshot
 
 ![FocusUp Screenshot](assets/SS.png)  
 *Your workspace, reimagined with charm and focus.*
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone this repository:
    ```bash
@@ -36,19 +36,19 @@ Inspired by the Pomodoro Technique, the app helps you stay productive by alterna
    python main.py
    ```
    
-## 📁 Requirements
+##  Requirements
 1. Python 3.x
 
 2. Windows OS (for winsound support)
 
 3. Tkinter (comes pre-installed with Python)
 
-## 📝 Notes
+##  Notes
 1. Make sure the background image BG_cute.png is placed inside the assets/ folder.
 
 2. This app was designed to run on Windows. For macOS/Linux, you may need to modify or remove the winsound beep part.
 
 
-## 👩‍💻 Author
+
 Srishti Srivastava
 
